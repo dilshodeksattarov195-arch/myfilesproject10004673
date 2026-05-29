@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachecncrypt",
+        "uuid": 6275839,
+        "checksum": "6rih6p"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
